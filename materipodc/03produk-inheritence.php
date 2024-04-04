@@ -46,9 +46,6 @@ echo $produk1->getInfoProduk();
 echo "<hr>";
 echo $produk2->getInfoProduk();
 
-// Mobil : Toyota | Silver, Tenaga : 106 (Rp. 250 Juta). Jumlah Kursi : 7
-// Motor : Yamaha | Hitam, Tenaga : 15 (Rp. 35 Juta). Kapasitas Bagasi : 24 Liter
-
 // Inheritence
 
 ?>
