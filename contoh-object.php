@@ -1,9 +1,11 @@
 <?php 
 
 class Coba {
-   
+    public $a; 
 
-
+    public function b() {
+        
+    }
 }
 
 // membuat object instance dari class
