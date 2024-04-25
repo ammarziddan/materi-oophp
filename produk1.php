@@ -55,10 +55,4 @@ echo "Komik: " . $produk3->getLabel();
 echo "<hr>";
 echo "Game: " . $produk4->getLabel();
 
-
-
-
-
-
-
 // urutan: 7-11, 23-26, 28-31,33-40, 13-15, 41, 17-20, 44, 48-56

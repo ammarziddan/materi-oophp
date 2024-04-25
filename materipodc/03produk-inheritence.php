@@ -1,8 +1,8 @@
 <?php 
 
 // List Kendaraan
-// Mobil: Merek | Warna, Tenaga: 0 hp (Rp. 250 juta)
-// Motor: Merek | Warna, Tenaga: 0 hp (Rp. 35 juta)
+// Mobil: Merek | Warna, Tenaga: 0 hp (Rp. 250 juta). Jumlah Kursi : 0
+// Motor: Merek | Warna, Tenaga: 0 hp (Rp. 35 juta). Kapasitas Bagasi : 0
 
 class Kendaraan {
     public  $merek, 

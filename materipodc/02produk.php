@@ -37,5 +37,5 @@ $produk2 = new Kendaraan("Yamaha", "Hitam", 15, 35);
 
 echo "Mobil : {$produk1->getLabel()}";
 echo "<hr>";
-echo "Mobil : {$produk2->getLabel()}";
+echo "Motor : {$produk2->getLabel()}";
 ?>
